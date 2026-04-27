@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Building with Precision. <span style="color:orange">Deliver with Integrity.</span>
+# Building with Precision. <span style="color:#de7702">Deliver with Integrity.</span>
 
 Maven Builder delivers end-to-end construction solutions across residential, commercial, and retrofit projects.
 
