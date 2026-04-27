@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Maven Builder'
 
 logo:
-  mobile: "images/logo/maven.png"
+  mobile: "images/logo/maven.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/maven.png"
+  desktop: "images/logo/maven.svg"
   desktop_height: "32px"
   desktop_width: "120px"
 
