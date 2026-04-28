@@ -2,7 +2,7 @@
 title: Maven Builder
 layout: home
 description: Construction, delivered with precision and enhanced by technology.
-intro_image: "images/amsterdam-city-unsplash.jpg"
+intro_image: "images/shiny-structure.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
