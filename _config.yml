@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/maven.png"
   desktop_height: "86px"
-  desktop_width: "64px"
+  desktop_width: "86px"
 
 home: 
   limit_services: 6
