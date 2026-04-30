@@ -15,3 +15,7 @@ Maven Builder delivers end-to-end construction solutions across residential, com
 We combine over 20 years of industry experience with modern, technology-enabled workflows to improve clarity, efficiency, and project outcomes.
 
 Our approach is simple — disciplined execution, transparent communication, and consistent delivery.
+
+We developed an in-house app/tool Maven Home for all our services & clients.
+
+Contact Use for more details:
