@@ -18,4 +18,4 @@ Our approach is simple — disciplined execution, transparent communication, and
 
 Maven Home is our in-house platform for managing services and supporting our clients.
 
-Contact Use for more details:
+Contact Us for more details:
