@@ -16,6 +16,6 @@ We combine over 20 years of industry experience with modern, technology-enabled 
 
 Our approach is simple — disciplined execution, transparent communication, and consistent delivery.
 
-We developed an in-house app/tool Maven Home for all our services & clients.
+Maven Home is our in-house platform for managing services and supporting our clients.
 
 Contact Use for more details:
