@@ -1,4 +1,4 @@
-baseurl: '/maven-builder-serif'
+baseurl: '/'
 permalink: pretty
 title: 'Maven Builder'
 
